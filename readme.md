@@ -6,4 +6,4 @@ npm install
 
 to run 
 
-node  .\
+node  .\server.js
